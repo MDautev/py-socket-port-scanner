@@ -68,8 +68,10 @@ python scanner.py scanme.nmap.org -s 20 -e 100 -t 1
 | `output/scan_log.txt` | Full scan log with timestamps |
 
 ⚠️ Legal Disclaimer
+
 This tool is for educational and ethical testing only.
 Always scan targets you own or have explicit permission to test.
 
 Author
+
 Built by MDautev
