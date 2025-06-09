@@ -1,4 +1,4 @@
-````markdown
+```markdown
 # ⚡ py-socket-port-scanner
 
 A **blazing fast, multithreaded TCP port scanner** written in Python, featuring a colorful CLI, hostname support, logging, and open port saving — perfect for ethical hackers and cybersecurity learners.
@@ -27,7 +27,7 @@ A **blazing fast, multithreaded TCP port scanner** written in Python, featuring 
 ```bash
 pip install -r requirements.txt
 ```
-````
+```
 
 requirements.txt should contain:
 
